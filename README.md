@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Kumar Singh</h1>
 <h3 align="center">A passionate Full Stack Web developer</h3>
 
-<img style="background: url('[your-image-url.jpg](https://img.freepik.com/free-vector/web-development-concept-with-programmer-ar_107791-17049.jpg?t=st=1708865136~exp=1708868736~hmac=ec19cafd9d2d4d75b5eeebc85cc6618c20633b5d6648c6403d2ca2b5a4419e34&w=1480)') no-repeat center center; background-size: cover; background-color: transparent; width: 300px; height: 200px; align="right" alt="coding" width= "400">
-
-
+<img align="right" src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1325.jpg?w=1060&t=st=1708867681~exp=1708868281~hmac=98b07b280f3e55bf4dec2208b147a51f8bb989634421e666b1e82f9cbccde4cf" width="400" height="300">
 
 - 🌱 I’m currently learning **ReactJS**
 
