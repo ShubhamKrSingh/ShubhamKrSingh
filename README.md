@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Web developer</h3>
 
 <img align="right" alt="coding" width= "400"
-src="https://img.freepik.com/free-photo/white-notebook-black-data-firewall_1150-1733.jpg?w=1480&t=st=1708865010~exp=1708865610~hmac=75565361e37f6dfffab70c810dc7ed3879007e89c2ebfbf7148bba76eee8035f">
+src="https://img.freepik.com/free-vector/web-development-concept-with-programmer-ar_107791-17049.jpg?t=st=1708865136~exp=1708868736~hmac=ec19cafd9d2d4d75b5eeebc85cc6618c20633b5d6648c6403d2ca2b5a4419e34&w=1480">
 
 
 - 🌱 I’m currently learning **ReactJS**
