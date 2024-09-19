@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shubham Kumar Singh</h1>
+<h1 align="center">Hi 👋, I'm Shubham Singh</h1>
 <h3 align="center">A passionate Full Stack Web developer</h3>
 
 <img align="right" src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1325.jpg?w=1060&t=st=1708867681~exp=1708868281~hmac=98b07b280f3e55bf4dec2208b147a51f8bb989634421e666b1e82f9cbccde4cf" width="400" height="300">
